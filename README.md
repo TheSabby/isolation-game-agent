@@ -11,6 +11,9 @@ This project uses a version of Isolation where each agent is restricted to L-sha
 
 Additionally, agents will have a fixed time limit each turn to search for the best move and respond.  If the time limit expires during a player's turn, that player forfeits the match, and the opponent wins.
 
+The analysis of different game board evaluation heuristics can be found in `heuristic_analysis.pdf`.
+A short summary of the Alpha-Go research paper can be found in `research_review.pdf`.
+
 
 ### Quickstart Guide
 
